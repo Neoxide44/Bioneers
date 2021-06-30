@@ -33,4 +33,4 @@ async def before():
 
 
 called_once_a_day.start()
-client.run("Nzg0MDU1MTQwNjU1MDM4NTA4.X8juQA.8OKJp8N6LZVXCzpdXz2JGHhfQ5Y")
+client.run("Token-Here")
